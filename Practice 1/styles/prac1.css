@@ -1,0 +1,38 @@
+/*global*/
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(160, 241, 160);
+    font-family: arial;
+}
+
+/*header*/
+header{
+    text-align: center;
+    background-color: rgb(103, 103, 216);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-transform: uppercase;
+    
+}
+.encabezado h2{
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+/*main*/
+main.informacion{
+    background-color: rgb(230, 225, 159);
+}
+main.hobbies{
+    background-color: rgb(180, 129, 228);
+    text-align: right;
+}
+main.Contact{
+    background-color: rgb(238, 165, 114);
+}
+footer{
+    position: fixed;
+    bottom: 0px
+}
